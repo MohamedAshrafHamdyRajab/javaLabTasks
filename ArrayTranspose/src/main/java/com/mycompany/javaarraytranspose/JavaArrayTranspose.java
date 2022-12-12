@@ -1,3 +1,4 @@
+// this project to get the transpose of the array from the input array by user
 package com.mycompany.javaarraytranspose;
 import java.util.Scanner;
 
