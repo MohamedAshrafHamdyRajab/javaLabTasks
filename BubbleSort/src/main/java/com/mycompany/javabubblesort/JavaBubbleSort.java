@@ -1,3 +1,4 @@
+// this project to implement the bubble sort on the array from the user
 package com.mycompany.javabubblesort;
 import java.util.Scanner;
 
