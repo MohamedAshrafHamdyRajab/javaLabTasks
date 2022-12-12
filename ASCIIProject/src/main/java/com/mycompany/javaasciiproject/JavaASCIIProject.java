@@ -1,3 +1,4 @@
+// this project to get the ASCII code for characters or to get the character from the ASCII code and the user make the decition
 package com.mycompany.javaasciiproject;
 import java.util.Scanner;
 
