@@ -1,3 +1,4 @@
+// this project to remove the comas from any text by the user
 package com.mycompany.javaremovecomas;
 import java.util.Scanner;
 
