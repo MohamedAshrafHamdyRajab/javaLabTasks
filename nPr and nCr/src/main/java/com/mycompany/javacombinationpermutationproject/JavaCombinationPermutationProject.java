@@ -1,3 +1,4 @@
+// this project to get the nPr and nCr and the user make the decision 
 package com.mycompany.javacombinationpermutationproject;
 import java.util.Scanner;
 
