@@ -1,3 +1,4 @@
+// this project to get the largest cell in input array , which is can be one dimension or two dimension and the user make this decition
 package com.mycompany.javalargestcell;
 import java.util.Scanner;
 
