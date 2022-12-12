@@ -1,3 +1,4 @@
+// this project to get the area of the triangle or the circle and the user make the decision 
 package com.mycompany.javatrianglecirclearea;
 import java.util.Scanner;
 
